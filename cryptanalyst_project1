@@ -1,9 +1,9 @@
-# TUGAS KELOMPOK KRIPTOGRAFI
-# ENKRIPSI MENGGUNAKAN PLAYFAIR
-# DEKRIPSI DENGAN SUPER ENKRIPSI DAN SUBTITUSI
+# Encryption Using Playfair Method
+# Decryption Using Super Encryption and Subtitution method
 
 #JULIO ANDYAN JORDAN ARYANTO (24060117130078)
-# M NURFAJAR IQBAL (24060117130076)
+# DIPONEGORO UNIVERSITY
+# IT 17
 
 from array import *
 from nltk import *
@@ -14,6 +14,17 @@ from nltk import *
 # a) dengan Super Enkripsi menggunakan subtitusi caesar cipher dengan kata kunci digeser sebesar 3 huruf ke kanan
 # dan dilanjut menggunakan Transposisi -> dimana matrikx dari hasilnya selalu memiliki 4 kolom
 # b) dengan subtitusi caesar cipher dengan kata kunci digeser sebesar 3 huruf ke kanan
+
+
+#NOTE:
+# PLAYFAIR ENCRYPTION USING THE "ATHEM" KEYWORDS
+# DECEPTION:
+# a) with Super Encryption using the caesar cipher substitution with the keyword shifted by 3 letters to the right
+# and continued using Transposition -> where the matrix always has 4 columns
+# b) with the caesar cipher substitution with the keyword shifted by 3 letters to the right
+
+
+#language using : indonesia 
 
 #MULAI
 # Inisialisasi
